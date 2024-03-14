@@ -4,27 +4,20 @@ export default [
         title: 'Fullstack Developer',
         duration: '9 months',
         details:
-        'lorem'
+        'Comprehensive training as a full-stack software engineer, group projects, self-directed learning.'
     },
     {
-        year: 'Today',
-        title: 'Fullstack Developer',
-        duration: '9 months',
+        year: '2021',
+        title: 'Management Assistant/Meal Voucher Manager @Centre Pompidou',
+        duration: '2 years',
         details:
-        'lorem'
+        'Working closely with the HR administration, dispute resolution with short deadline constraints.'
     },
     {
-        year: 'Today',
-        title: 'Fullstack Developer',
-        duration: '9 months',
+        year: '2019',
+        title: 'Ticketing Officer/Assistant Vault Manager @Centre Pompidou',
+        duration: '2 years',
         details:
-        'lorem'
-    },
-    {
-        year: 'Today',
-        title: 'Fullstack Developer',
-        duration: '9 months',
-        details:
-        'lorem'
+        'Writing and transmitting accounting reports,counting incomes, and preparing cash funds.'
     },
 ]
