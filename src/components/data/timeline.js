@@ -1,7 +1,7 @@
 export default [
     {
         year: 'Today',
-        title: 'Fullstack Developer',
+        title: 'Fullstack Developer @Ada Tech School',
         duration: '9 months',
         details:
         'Comprehensive training as a full-stack software engineer, group projects, self-directed learning.'
