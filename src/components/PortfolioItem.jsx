@@ -15,13 +15,13 @@ function PortfolioItem({ title, imgUrl, stack, link, github }) {
             </a>
             <div className='w-full p-4'>
                 <div className="flex justify-between items-center">
-                    <h3 className='text-lg md:text-xl dark:text-white mb-2 md:mb-3 font-semibold m-3'>{title}
+                    <h3 className='text-lg md:text-xl dark:text-white mb-2 md:mb-3 font-semibold'>{title}
                     </h3>
                         <a
                             href={github}
                             target='_blank'
                             rel='noopener noreferrer'
-                            className="bg-black dark:bg-white p-2 font-semibold text-white dark:text-black inline-flex items-center space-x-2 rounded-full ">
+                            className="bg-black dark:bg-white p-2 font-semibold text-white dark:text-black inline-flex items-center space-x-2 rounded-full mb-2 ">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 xmlnsXlink="http://www.w3.org/1999/xlink"
