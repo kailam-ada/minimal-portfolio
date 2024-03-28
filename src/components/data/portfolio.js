@@ -17,6 +17,6 @@ export default [
         title: 'Portfolio',
         imgUrl: 'assets/portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://ticketing-app-by-kai.vercel.app/',
+        link: 'https://kai-minimal-portfolio.vercel.app/',
         github: 'https://github.com/kailam-ada/minimal-portfolio',
     },]
