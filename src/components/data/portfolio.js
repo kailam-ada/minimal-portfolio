@@ -2,7 +2,7 @@ export default [
     {
         title: 'Airbnb Clone',
         imgUrl: 'assets/airbnb-clone.png',
-        stack: ['React', 'Tailwind', 'Vite'],
+        stack: ['React', 'Tailwind', 'Node', 'Express'],
         link: 'https://kai-airbnb-clone.vercel.app/',
         github: 'https://github.com/kailam-ada/airbnb-clone',
     },

@@ -18,6 +18,6 @@ export default [
         title: 'Ticketing Officer/Assistant Vault Manager @Centre Pompidou',
         duration: '2 years',
         details:
-        'Writing and transmitting accounting reports,counting incomes, and preparing cash funds.'
+        'Writing and transmitting accounting reports, counting incomes, and preparing cash funds.'
     },
 ]
