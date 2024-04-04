@@ -21,7 +21,7 @@ function PortfolioItem({ title, imgUrl, stack, link, github }) {
                             href={github}
                             target='_blank'
                             rel='noopener noreferrer'
-                            className="bg-black dark:bg-white p-2 font-semibold text-white dark:text-black inline-flex items-center space-x-2 rounded-full mb-2 ">
+                            className="bg-black dark:bg-white p-2 font-semibold text-white dark:text-black inline-flex items-center space-x-2 rounded-full mb-2 md:mb-3 ">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 xmlnsXlink="http://www.w3.org/1999/xlink"
